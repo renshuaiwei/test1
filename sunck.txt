@@ -10,4 +10,8 @@ hahahaha
 you are a happy man
 sdhadsdslhghg
 
+<<<<<<< HEAD
 master is a people
+=======
+xym is a people
+>>>>>>> xym
